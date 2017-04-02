@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frase do dia</string>
+    <string name="gerarFrase">Gerar Frase</string>
+    <string name="GeraFrase"></string>
+</resources>
